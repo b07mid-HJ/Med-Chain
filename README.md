@@ -6,6 +6,8 @@ Welcome to MedChain, a groundbreaking project aimed at transforming healthcare a
 
 MedChain is a decentralized healthcare platform that leverages blockchain technology to ensure secure, interoperable, and real-time access to electronic health records. With a user-friendly Flutter-based front-end, MedChain caters to various user roles, including admin, doctor, nurse, and patient, providing a tailored experience for each.
 
+[![Watch the MedChain Introduction Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://drive.google.com/file/d/18rVjW8aqR3-ySwEpvKKEkUM03U-OBUuE/view?usp=sharing))
+
 ## Features
 
 ### 1. Decentralized Electronic Health Records (EHR)
